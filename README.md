@@ -12,3 +12,5 @@
 
 | File | Description |
 | ---- | ----------- |
+| Main.h | Contains file includes and abstract data types |
+| main.c | source code for the simple shell design in c|
